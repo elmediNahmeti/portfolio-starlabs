@@ -86,11 +86,11 @@ window.addEventListener("scroll", () => {
 
 wow = new WOW(
   {
-    boxClass: 'wow',      // default
-    animateClass: 'animated', // default
-    offset: 0,          // default
-    mobile: true,       // default
-    live: true        // default
+    boxClass: 'wow',      
+    animateClass: 'animated', 
+    offset: 0,          
+    mobile: true,       
+    live: true        
   }
 )
 wow.init();
